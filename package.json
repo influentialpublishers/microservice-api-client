@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scull7/microservice-api-client.git"
+    "url": "git+https://github.com/influentialpublishers/microservice-api-client.git"
   },
   "keywords": [
     "microservice",
     "client",
     "api"
   ],
-  "author": "Nathan A Sculli <scull7@gmail.com>",
+  "author": "Human",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scull7/microservice-api-client/issues"
+    "url": "https://github.com/influentialpublishers/microservice-api-client/issues"
   },
-  "homepage": "https://github.com/scull7/microservice-api-client#readme",
+  "homepage": "https://github.com/influentialpublishers/microservice-api-client#readme",
   "eslintConfig": {
     "extends:": "eslint:recommended",
     "parserOptions": {
