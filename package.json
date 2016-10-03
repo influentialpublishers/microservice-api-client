@@ -1,6 +1,6 @@
 {
   "name": "microservice-api-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A proxy capable client for your micro-service",
   "main": "index.js",
   "scripts": {
